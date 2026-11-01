@@ -1,0 +1,4 @@
+mcp==2.3.0
+icalendar==7.3.0
+recurring-ical-events==3.8.2
+tzdata
